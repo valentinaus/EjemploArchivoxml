@@ -15,6 +15,12 @@ public class persona {
     private String nombre;
     private String correo;
     private String telefono;
+    
+    
+    public persona ()
+    {
+        
+    }
 
     public persona(String nombre, String correo, String telefono) {
         this.nombre = nombre;
